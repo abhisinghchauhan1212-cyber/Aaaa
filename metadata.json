@@ -1,0 +1,6 @@
+{
+  "name": "Health UK07 – Home Care & Patient Care Booking System",
+  "description": "उत्तराखंड व देहरादून में घर पर मरीजों की देखभाल, नर्सिंग स्टाफ, आईसीयू केयर, जी.डी.ए. स्टाफ और फिजियोथेरेपी बुकिंग सिस्टम।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
